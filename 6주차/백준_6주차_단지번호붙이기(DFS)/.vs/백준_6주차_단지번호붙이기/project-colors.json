@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c23b9013-8d3e-414a-976a-5b21b9742fc1": {
+      "ProjectGuid": "c23b9013-8d3e-414a-976a-5b21b9742fc1",
+      "DisplayName": "백준_6주차_단지번호붙이기",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
