@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0bd1cca5-fc67-44f6-a87d-e51bcbb599a2": {
+      "ProjectGuid": "0bd1cca5-fc67-44f6-a87d-e51bcbb599a2",
+      "DisplayName": "백준_보물",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
