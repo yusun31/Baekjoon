@@ -20,7 +20,7 @@ int main()
 
 	int time = cow[0].first;
 	for (int i = 0; i < N; i++) {
-		if(time < cow[i].first)
+		if (time < cow[i].first)
 			time += cow[i].first - time;
 		time += cow[i].second;
 	}
