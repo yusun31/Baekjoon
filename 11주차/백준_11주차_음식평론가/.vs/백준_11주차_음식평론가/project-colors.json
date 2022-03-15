@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e99afe1c-9351-4f27-8d2a-9cfcf5a81cba": {
+      "ProjectGuid": "e99afe1c-9351-4f27-8d2a-9cfcf5a81cba",
+      "DisplayName": "백준_11주차_음식평론가",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

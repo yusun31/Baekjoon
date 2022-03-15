@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "77696f53-8aa4-4f79-809d-5533b4bd7df0": {
+      "ProjectGuid": "77696f53-8aa4-4f79-809d-5533b4bd7df0",
+      "DisplayName": "백준_11주차_나무꾼이다솜",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
