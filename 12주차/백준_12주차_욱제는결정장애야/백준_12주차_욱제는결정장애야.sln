@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "백준_12주차_욱제는결정장애야", "백준_12주차_욱제는결정장애야.vcxproj", "{C1BC4E10-DBE8-4E07-8822-56BAF438DCB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1BC4E10-DBE8-4E07-8822-56BAF438DCB2}.Debug|x64.ActiveCfg = Debug|x64
+		{C1BC4E10-DBE8-4E07-8822-56BAF438DCB2}.Debug|x64.Build.0 = Debug|x64
+		{C1BC4E10-DBE8-4E07-8822-56BAF438DCB2}.Debug|x86.ActiveCfg = Debug|Win32
+		{C1BC4E10-DBE8-4E07-8822-56BAF438DCB2}.Debug|x86.Build.0 = Debug|Win32
+		{C1BC4E10-DBE8-4E07-8822-56BAF438DCB2}.Release|x64.ActiveCfg = Release|x64
+		{C1BC4E10-DBE8-4E07-8822-56BAF438DCB2}.Release|x64.Build.0 = Release|x64
+		{C1BC4E10-DBE8-4E07-8822-56BAF438DCB2}.Release|x86.ActiveCfg = Release|Win32
+		{C1BC4E10-DBE8-4E07-8822-56BAF438DCB2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95F9CC3F-B700-4C0C-AC25-B6327EBD4468}
+	EndGlobalSection
+EndGlobal
