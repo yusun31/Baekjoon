@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1e3c3345-9d32-48f2-af88-dbdf5c8f6282": {
+      "ProjectGuid": "1e3c3345-9d32-48f2-af88-dbdf5c8f6282",
+      "DisplayName": "수열",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
