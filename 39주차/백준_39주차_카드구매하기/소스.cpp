@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+#include <algorithm>
 using namespace std;
 
 int main()
@@ -9,26 +10,18 @@ int main()
 	cin >> N;
 
 	vector<int> card(N + 1, 0);
-	vector<int> dp(N);
+	vector<int> dp(N + 1, 0);
 	for (int i = 1; i <= N; i++) {
 		cin >> card[i];
 	}
 
 	for (int i = 1; i <= N; i++) {
-		dp[i - 1] = card[i] * (N / i);
-		while (N % i != 0) {
-			dp[i - 1] += card[N % i];
-			break;
+		for (int j = 1; j <= i; j++) {
+			dp[i] = max(dp[i], dp[i - j] + card[j]);
 		}
 	}
 
-
-	int result = 0;
-	for (int i = 0; i < N; i++) {
-		if (result < dp[i])
-			result = dp[i];
-	}
-	cout << result << endl;
+	cout << dp[N] << endl;
 
 	return 0;
 }
