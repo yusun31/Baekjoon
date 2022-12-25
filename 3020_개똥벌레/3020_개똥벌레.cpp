@@ -9,16 +9,16 @@ int main()
 	int N, H;
 	cin >> N >> H;
 
-	vector<int> ctite(N / 2); // 종유석
-	vector<int> gmite(N / 2); // 석순
+	vector<int> ctite(N / 2);
+	vector<int> gmite(N / 2);
 	for (int i = 1; i <= N; i++) {
 		int x;
 		cin >> x;
 
-		if (i % 2 == 0) { // 종유석
+		if (i % 2 == 0) {
 			ctite[(i / 2) - 1] = x;
 		}
-		else { // 석순
+		else {
 			gmite[i / 2] = x - 1;
 		}
 	}
